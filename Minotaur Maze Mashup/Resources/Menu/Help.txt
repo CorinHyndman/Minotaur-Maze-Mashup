@@ -1,0 +1,14 @@
+﻿First Phase
+Movement:
+← Move Left
+→ Move Right
+↑ Rotate Piece
+↓ Move Piece Down
+
+Second Phase
+Movement:
+↑ Move Up
+↓ Move Down
+← Move Left
+→ Move Right
+[Space] Place bomb
